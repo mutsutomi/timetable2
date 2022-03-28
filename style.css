@@ -1,0 +1,22 @@
+#pagetop{
+  display: flex;
+  margin-bottom: 40px;
+}
+#icon{
+  width: 320px;
+  height: 90px;
+}
+
+h1{
+  font-weight: normal;
+  margin-left: 10px;
+}
+
+td{
+  height: 80px;
+}
+
+table{
+  /* table-layout: fixed; */
+  margin-bottom: 70px;
+}
